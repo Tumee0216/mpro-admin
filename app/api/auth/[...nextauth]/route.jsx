@@ -2,7 +2,7 @@
 import NextAuth from "next-auth/next";
 import { PrismaAdapter } from "@next-auth/prisma-adapter";
 import CredentialsProvider from "next-auth/providers/credentials";
-import prisma from '../../libs/prismadb';
+import prisma from '../../../libs/prismadb';
 import bcrypt from 'bcryptjs';
 
 export const authOptions = {
@@ -11,9 +11,9 @@ export const authOptions = {
         CredentialsProvider({
             name: "credentials",
             credentials: {
-                email: { label: "Email", type: "text", placeholder: "jsmith" },
+                email: { label: "Email", type: "text", placeholder: "Email" },
                 password: { label: "Password", type: "password" },
-                username: { label: "Username", type: "text", placeholder: "John Smith" },
+                username: { label: "Username", type: "text", placeholder: "Name" },
             },
             async authorize(credentials) {
               
