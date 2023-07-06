@@ -4,11 +4,13 @@ import { useState } from "react";
 import axios from "axios";
 import Image from 'next/image';
 import Link from "next/link";
+import { Button, Loading } from "@nextui-org/react";
 import { toast } from "react-hot-toast";
 import { hide, view, Logo } from '../../assets';
 
 export default function Register() {
     const [showPassword, setShowPassword] = useState(false);
+    const [isLoading, setLoading] = useState(false);
     const handleTogglePassword = () => {
         setShowPassword(!showPassword);
     };
@@ -19,10 +21,11 @@ export default function Register() {
     })
 
     const registerUser = async (e) => {
-       e.preventDefault()
+       setLoading(true)
        axios.post('/api/register', data)
        .then(() => toast.success('User has been registered!'))
        .catch(() => toast.error('Something went wrong!'))
+       setLoading(false)
     }
 
     return (
@@ -105,12 +108,9 @@ export default function Register() {
                     </div>
                 </div>
                 <div className="flex justify-center">
-                    <button
-                    type="submit"
-                    className="px-4 py-2 text-sm font-medium text-white bg-blue-500 rounded-md hover:bg-blue-600 focus:outline-none focus:bg-blue-600"
-                    >
-                    Register
-                    </button>
+                    <Button auto color="primary" css={{ px: "$13" }} onClick={registerUser}>
+                        {isLoading ? <Loading type="points" color="currentColor" size="sm" /> : 'Register'}
+                    </Button>
                 </div>
                 <div className="mt-4 text-center">
                     <p className='text-black'>

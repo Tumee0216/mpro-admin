@@ -4,6 +4,7 @@ import { useState, useEffect } from "react"
 import { signIn, useSession } from 'next-auth/react'
 import { toast } from "react-hot-toast"
 import { useRouter } from "next/navigation"
+import { Button, Loading } from "@nextui-org/react";
 import Image from 'next/image';
 import Link from "next/link";
 import { hide, view, Logo } from '../../assets';
@@ -12,6 +13,7 @@ export default function Login() {
     const session = useSession();
     const router = useRouter();
     const [showPassword, setShowPassword] = useState(false);
+    const [isLoading, setLoading] = useState(false);
 
     const [data, setData] = useState({
         email: '',
@@ -29,7 +31,7 @@ export default function Login() {
     })
 
     const loginUser = async (e) => {
-        e.preventDefault()
+        setLoading(true)
         signIn('credentials',
          {...data, redirect: false
         })
@@ -40,6 +42,7 @@ export default function Login() {
             if(callback?.ok && !callback?.error) {
                 toast.success('Logged in successfully!')
             }
+            setLoading(false)
         })
     }
     return (
@@ -54,7 +57,6 @@ export default function Login() {
                         alt="logo"
                     />
                 </div>
-                {/* <h1 className="text-2xl font-semibold mb-6 text-center text-black">Login</h1> */}
                 <form method="post" action="/api/auth/callback/credentials" onSubmit={loginUser}>
                     <div className="mb-4">
                     <label htmlFor="email" className="block mb-2 text-sm font-medium text-gray-600">
@@ -89,31 +91,19 @@ export default function Login() {
                         className="absolute top-1/2 right-3 transform -translate-y-1/2 text-gray-500"
                         onClick={handleTogglePassword}
                         >
-                        {showPassword ? (
-                            <Image
-                                src={hide}
+                        <Image
+                                src={showPassword?view:hide}
                                 width={20}
                                 height={20}
-                                alt="hide"
+                                alt={showPassword?'view':'hide'}
                             />
-                        ) : (
-                            <Image
-                                src={view}
-                                width={20}
-                                height={20}
-                                alt="view"
-                            />
-                        )}
                         </button>
                     </div>
                     </div>
                     <div className="flex justify-center">
-                    <button
-                        type="submit"
-                        className="px-4 py-2 text-sm font-medium text-white bg-blue-500 rounded-md hover:bg-blue-600 focus:outline-none focus:bg-blue-600"
-                    >
-                        Login
-                    </button>
+                        <Button auto color="primary" css={{ px: "$13" }} onClick={loginUser}>
+                            {isLoading ? <Loading type="points" color="currentColor" size="sm" /> : 'Login'}
+                        </Button>
                     </div>
                     <div className="mt-4 text-center">
                         <p className='text-black'>

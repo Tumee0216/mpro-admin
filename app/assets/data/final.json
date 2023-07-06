@@ -1,0 +1,1670 @@
+[
+    {
+        "title": "Accessorial",
+        "catalog": [
+            "Уул уурхай "
+        ],
+        "value": [
+            {
+                "catalog": "Уул уурхай ",
+                "value": "Дагалдах хэрэгсэл"
+            }
+        ]
+    },
+    {
+        "title": "Accounting earnings",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Нягтлан бодох бүртгэлийн ашиг(орлого)"
+            }
+        ]
+    },
+    {
+        "title": "Accounting exposure",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Нягтлан бодох бүртгэлийн эрсдэл"
+            }
+        ]
+    },
+    {
+        "title": "Accounts payable (payables, trade debt)",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Дансны өглөг (Өглөг, Худалдааны өглөг)"
+            }
+        ]
+    },
+    {
+        "title": "Accounts payable management",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Дансны өглөгийн удирдлага"
+            }
+        ]
+    },
+    {
+        "title": "Accounts receivable (receivables, trade credit)",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Дансны авлага (Авлага, зээлээр худалдаалах)"
+            }
+        ]
+    },
+    {
+        "title": "Accretion",
+        "catalog": [
+            "Уул уурхай "
+        ],
+        "value": [
+            {
+                "catalog": "Уул уурхай ",
+                "value": "акрэци (өсөх, нэмэгдэх)"
+            }
+        ]
+    },
+    {
+        "title": "Accrual basis",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Аккруэл суурь"
+            }
+        ]
+    },
+    {
+        "title": "Accruals",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Хуримтлагдсан өр төлбөрүүд"
+            }
+        ]
+    },
+    {
+        "title": "Accrued interest",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Хуримтлагдсан хүү"
+            }
+        ]
+    },
+    {
+        "title": "Accumulation",
+        "catalog": [
+            "Уул уурхай "
+        ],
+        "value": [
+            {
+                "catalog": "Уул уурхай ",
+                "value": "Бөөгнөрөл"
+            }
+        ]
+    },
+    {
+        "title": "Acid refined oil",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Хүчлээр цэвэрлэгдсэн тос"
+            }
+        ]
+    },
+    {
+        "title": "Acid-test ratio",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Төлбөр түргэн гүйцэтгэх чадварын харьцаа"
+            }
+        ]
+    },
+    {
+        "title": "Acidity",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Хүчиллэг"
+            }
+        ]
+    },
+    {
+        "title": "Acorn nut",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Боргоцой хэлбэрийн гайк"
+            }
+        ]
+    },
+    {
+        "title": "Acquiring company",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Эзэмшигч компани"
+            }
+        ]
+    },
+    {
+        "title": "Across the dip",
+        "catalog": [
+            "Уул уурхай "
+        ],
+        "value": [
+            {
+                "catalog": "Уул уурхай ",
+                "value": "уналд хөндлөн"
+            }
+        ]
+    },
+    {
+        "title": "Across the strike",
+        "catalog": [
+            "Уул уурхай "
+        ],
+        "value": [
+            {
+                "catalog": "Уул уурхай ",
+                "value": "суналд хөндлөн"
+            }
+        ]
+    },
+    {
+        "title": "Active filler",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Идэвхтэй материал"
+            }
+        ]
+    },
+    {
+        "title": "Active management",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Ивэвхитэй удирдлага"
+            }
+        ]
+    },
+    {
+        "title": "Active portfolio",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Ивэвхитэй багц"
+            }
+        ]
+    },
+    {
+        "title": "Activity ratios",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Үйл ажиллагааны харьцаа үзүүлэлтүүд"
+            }
+        ]
+    },
+    {
+        "title": "Actor",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Жүжигчин, киноны жүжигчин, театрын жүжигчин"
+            }
+        ]
+    },
+    {
+        "title": "Actuate",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Хөдөлгөх, ажиллуулах, өдөөх, ажиллах"
+            }
+        ]
+    },
+    {
+        "title": "Actuating lever",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Чангаах хөшүүрэг"
+            }
+        ]
+    },
+    {
+        "title": "Actuating link",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Залгах татуурга"
+            }
+        ]
+    },
+    {
+        "title": "Actuating rod",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Шилбэ"
+            }
+        ]
+    },
+    {
+        "title": "Additional brake",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Туслах тоормос"
+            }
+        ]
+    },
+    {
+        "title": "Additional brake pedal",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Туслах тоормосны дөрөө"
+            }
+        ]
+    },
+    {
+        "title": "Adhesive",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Наалдамхай, наалдамхай юм, цавуу, наалдац, холбогч(эд юмсыг), наах нэмэлт(галд тэсвэртэй), наагч"
+            }
+        ]
+    },
+    {
+        "title": "Adit",
+        "catalog": [
+            "Уул уурхай "
+        ],
+        "value": [
+            {
+                "catalog": "Уул уурхай ",
+                "value": "штольня / газар доогуурх хөндлөн суваг/"
+            }
+        ]
+    },
+    {
+        "title": "Adjacent",
+        "catalog": [
+            "Уул уурхай "
+        ],
+        "value": [
+            {
+                "catalog": "Уул уурхай ",
+                "value": "зэргэлдээх, залгаа"
+            }
+        ]
+    },
+    {
+        "title": "Adjustable double acting wheel brake cylinder",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Хоёр талын ажиллагаатай тоормосны тохируулгатай цилиндр"
+            }
+        ]
+    },
+    {
+        "title": "Adjustable feed",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Тохируулагч механизм"
+            }
+        ]
+    },
+    {
+        "title": "Adjustable fork for retainer",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Бэхлэгчид зориулсан сэрээ хэлбэрийн хавчигч"
+            }
+        ]
+    },
+    {
+        "title": "Adjustable plier(channel lock or rib joint)",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Хэрээн хошуут бахь"
+            }
+        ]
+    },
+    {
+        "title": "Adjustable stop",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Тохируулах түгжээ(стопор)"
+            }
+        ]
+    },
+    {
+        "title": "Adjustable stop collar",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Тохируулдаг зогсоох тулгуур"
+            }
+        ]
+    },
+    {
+        "title": "Adjustable wrench",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Пранцус"
+            }
+        ]
+    },
+    {
+        "title": "Adjusted alphas",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Тохируулагдсан альфа"
+            }
+        ]
+    },
+    {
+        "title": "Adjusted present value (APV)",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Тохируулагдсан өнөөгийн үнэ цэнэ"
+            }
+        ]
+    },
+    {
+        "title": "Adjusting",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Тохиргоо"
+            }
+        ]
+    },
+    {
+        "title": "Adjusting latch, adjusting catch",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Тохируулавч"
+            }
+        ]
+    },
+    {
+        "title": "Adjusting nut",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Тогтоох, тохируулах эрэг(гайк)"
+            }
+        ]
+    },
+    {
+        "title": "Adjusting pin",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Тохируулах тэвх"
+            }
+        ]
+    },
+    {
+        "title": "Adjusting rod",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Тохируулах шилбэ"
+            }
+        ]
+    },
+    {
+        "title": "Adjusting rod pin",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Шилбэний хуруу (палец)"
+            }
+        ]
+    },
+    {
+        "title": "Adjusting sleeve",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Татуургын тохируулах холбовч"
+            }
+        ]
+    },
+    {
+        "title": "Adjusting sleeve clamp",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Тохируулах хоолойн хавчаар"
+            }
+        ]
+    },
+    {
+        "title": "Adjusting socket",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Тохируулах холбовч"
+            }
+        ]
+    },
+    {
+        "title": "Adjusting strap",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Тохируулах баривч"
+            }
+        ]
+    },
+    {
+        "title": "Admin",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Админ, Системийн удирдагч, Удирдагч, Захирагч"
+            }
+        ]
+    },
+    {
+        "title": "Admissible velocity",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Зөвшөөрөгдөх хурд"
+            }
+        ]
+    },
+    {
+        "title": "Adult",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Насанд хүрсэн хүн, том хүн, нас биед хүрсэн"
+            }
+        ]
+    },
+    {
+        "title": "Advanced ignition",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Эрт асалт"
+            }
+        ]
+    },
+    {
+        "title": "Adverse selection",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Муу сонголт"
+            }
+        ]
+    },
+    {
+        "title": "Advisor",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Зөвлөгч, зөвлөх"
+            }
+        ]
+    },
+    {
+        "title": "Aeschylean",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Эсхилийн, шууд, шулуун, илэн далангүй"
+            }
+        ]
+    },
+    {
+        "title": "Affirmative covenant",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Зайлшгүй биелүүлэх заалт"
+            }
+        ]
+    },
+    {
+        "title": "Afric",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африк"
+            }
+        ]
+    },
+    {
+        "title": "African",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африк хүн, Африк гаралтай хүмүүс"
+            }
+        ]
+    },
+    {
+        "title": "African drum",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "тумба, Африкийн бөмбөр"
+            }
+        ]
+    },
+    {
+        "title": "African millet",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африкийн хошуу будаа"
+            }
+        ]
+    },
+    {
+        "title": "African oak",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африкийн царс"
+            }
+        ]
+    },
+    {
+        "title": "African violet",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африкийн нил цэцэг"
+            }
+        ]
+    },
+    {
+        "title": "Africana",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африкийн соёлын зүйлс, Африкийн урчуудын хийсэн"
+            }
+        ]
+    },
+    {
+        "title": "Africanism",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африк тивийн ард түмнүүдийн соёл, ёс заншил"
+            }
+        ]
+    },
+    {
+        "title": "Africanist",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африк суддаач (Африкийн соёл, түүхийг судлалын мэр"
+            }
+        ]
+    },
+    {
+        "title": "Africanize",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африкжуулах (сургууль, байгууллагуудыг)"
+            }
+        ]
+    },
+    {
+        "title": "Afrikaans",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африкаанс, бурс хэл"
+            }
+        ]
+    },
+    {
+        "title": "Afrikander",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африкандер, Өмнөд Африкийн бүгд Найрамдах улсын иргэн"
+            }
+        ]
+    },
+    {
+        "title": "Afrikaner",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африкандер"
+            }
+        ]
+    },
+    {
+        "title": "Afro",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африк маягийн үсний хэв маяг"
+            }
+        ]
+    },
+    {
+        "title": "Afro-American",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": " Америкийн хар арьстан"
+            }
+        ]
+    },
+    {
+        "title": "Afro-Americanese",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "хар арьстан Америкийн жаргон"
+            }
+        ]
+    },
+    {
+        "title": "Afro-Americanism",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": " хар арьстан Америкчуудын соёл"
+            }
+        ]
+    },
+    {
+        "title": "Afro-Asian",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африк - Ази гаралтай"
+            }
+        ]
+    },
+    {
+        "title": "Afro-Asiatic",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африк - Азийн"
+            }
+        ]
+    },
+    {
+        "title": "Afroisin",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Африкийн соёлыг шүтэгч хүн"
+            }
+        ]
+    },
+    {
+        "title": "After-tax proceeds from sale of old asset",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Хуучин хөрөнгийг борлуулсны татварын орлого"
+            }
+        ]
+    },
+    {
+        "title": "Afterburning space",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Гүйцээн шатаах хөндий"
+            }
+        ]
+    },
+    {
+        "title": "Aftercooler",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Дулааны нэмэгдэл хөргүүр, гүйцэд хөргөөгч"
+            }
+        ]
+    },
+    {
+        "title": "Afterward",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Сүүлд, хойш, хожид, сүүлээр"
+            }
+        ]
+    },
+    {
+        "title": "Age",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Нас, үе, эрин зуун"
+            }
+        ]
+    },
+    {
+        "title": "Agency costs",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Төлөөллийн зардал"
+            }
+        ]
+    },
+    {
+        "title": "Agency problems",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Төлөөллийн бэрхшээл"
+            }
+        ]
+    },
+    {
+        "title": "Agency theory",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Төлөөллийн онол"
+            }
+        ]
+    },
+    {
+        "title": "Agglomerate",
+        "catalog": [
+            "Уул уурхай "
+        ],
+        "value": [
+            {
+                "catalog": "Уул уурхай ",
+                "value": "агломерат (Сул биет харилцан үйлчлэлээр нэгдэн тогтсон анхдагч бөөмсийн бөөгнөрөл)"
+            }
+        ]
+    },
+    {
+        "title": "Aggressive funding strategy",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Санхүү жилтийн агрессив стратеги"
+            }
+        ]
+    },
+    {
+        "title": "Aging schedule",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Насжилтын хуваарь"
+            }
+        ]
+    },
+    {
+        "title": "Agricultural tractor",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Хөдөө аж ахуйн трактор"
+            }
+        ]
+    },
+    {
+        "title": "Ahead",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Өмнө, түрүүнд, өмнө нь, урагшаа, ирж байгаа"
+            }
+        ]
+    },
+    {
+        "title": "Aid",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Тусламж, түшиг , дэмжлэг, туслалцаа"
+            }
+        ]
+    },
+    {
+        "title": "Air Ministry",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": " Агаарын тээврийн яам"
+            }
+        ]
+    },
+    {
+        "title": "Air by-pass passage valve",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агаар нэмэх клапан"
+            }
+        ]
+    },
+    {
+        "title": "Air chamber",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агаарын хөндий"
+            }
+        ]
+    },
+    {
+        "title": "Air chisel",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Хийн цүүц, хасуур (салдаг чиглүүлэгчийг цил.гавлаас гаргахад ашиглагддаг)"
+            }
+        ]
+    },
+    {
+        "title": "Air cleaner",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агаарын шүүр"
+            }
+        ]
+    },
+    {
+        "title": "Air compressor",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Хийн шахуурга, компрессор"
+            }
+        ]
+    },
+    {
+        "title": "Air cooled cylinder",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агаарын хөргөлттэй хөдөлгүүрийн цилиндр"
+            }
+        ]
+    },
+    {
+        "title": "Air cooled cylinder head",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агаарын хөргөлттэй хөдөлгүүрийн цилиндрийн гавал"
+            }
+        ]
+    },
+    {
+        "title": "Air cooled liner",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Салхин хөргүүртэй гильз"
+            }
+        ]
+    },
+    {
+        "title": "Air deflector",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агаарын хаалт"
+            }
+        ]
+    },
+    {
+        "title": "Air filter",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агаар шүүгч"
+            }
+        ]
+    },
+    {
+        "title": "Air filter element",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агаар шүүгч элемент"
+            }
+        ]
+    },
+    {
+        "title": "Air filter housing",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агаарын шүүрний гэр"
+            }
+        ]
+    },
+    {
+        "title": "Air induction and exhaust systems",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агаар оруулах болон гаргах системүүд"
+            }
+        ]
+    },
+    {
+        "title": "Air inlet",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Цэвэр агаар оруулах хоолой"
+            }
+        ]
+    },
+    {
+        "title": "Air inlet cover",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агаар оруулах нээлхийн таг"
+            }
+        ]
+    },
+    {
+        "title": "Air jet",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агаарын чихлүүр (жиклер)"
+            }
+        ]
+    },
+    {
+        "title": "Air nozzle",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агааржуулах хоолой"
+            }
+        ]
+    },
+    {
+        "title": "Air operated hydraulic brake servo unit",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Хийн хүчний цилиндр"
+            }
+        ]
+    },
+    {
+        "title": "Air outlet",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агаар гарах хоолой"
+            }
+        ]
+    },
+    {
+        "title": "Air pressure adjusting valve",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Хийн даралт тохируулах төв клапан"
+            }
+        ]
+    },
+    {
+        "title": "Air spring diaphragm",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Резинэн өрц"
+            }
+        ]
+    },
+    {
+        "title": "Air spring piston",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Хийн пүршний поршень"
+            }
+        ]
+    },
+    {
+        "title": "Air storage tank",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Хийн нөөцлүүр"
+            }
+        ]
+    },
+    {
+        "title": "Air temperature sensor",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агаарын температур мэдрүүл"
+            }
+        ]
+    },
+    {
+        "title": "Air-fuel mixture",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Агаар түлшны холимог"
+            }
+        ]
+    },
+    {
+        "title": "Aircraft",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Онгоц, нисэх онгоц, нисэх хүчин"
+            }
+        ]
+    },
+    {
+        "title": "Airport",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Нисэх буудал, нисэх онгоцны буудал"
+            }
+        ]
+    },
+    {
+        "title": "Alaskan",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Аляскийн оршин суугч"
+            }
+        ]
+    },
+    {
+        "title": "Albanian",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": " Албани хүн, Албани хэл, Албанийн"
+            }
+        ]
+    },
+    {
+        "title": "Albion",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": " Албион (Англи)"
+            }
+        ]
+    },
+    {
+        "title": "Algerian",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Алжир хүн"
+            }
+        ]
+    },
+    {
+        "title": "Aligning punch",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Тааруулж, тохируулагч цоолтуур"
+            }
+        ]
+    },
+    {
+        "title": "Alignment",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Тааруулах, тохируулах, байрлуулах"
+            }
+        ]
+    },
+    {
+        "title": "Alignment fixture",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Тохиргоо хийх хэрэгсэл"
+            }
+        ]
+    },
+    {
+        "title": "Alimentary line",
+        "catalog": [
+            "Уул уурхай "
+        ],
+        "value": [
+            {
+                "catalog": "Уул уурхай ",
+                "value": "тэжээлийн шугам"
+            }
+        ]
+    },
+    {
+        "title": "All",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Бүх юмс, бүгд, нийт"
+            }
+        ]
+    },
+    {
+        "title": "All-current-rate method",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Нэг валютаар жигдрүүлэх аргачлал"
+            }
+        ]
+    },
+    {
+        "title": "All-or-none underwriting",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Бүгдийг эсвэл огт хэрэгжүүлэхгүй андеррайтинг"
+            }
+        ]
+    },
+    {
+        "title": "Allen wrench",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "6 талтай түлхүүр"
+            }
+        ]
+    },
+    {
+        "title": "Allergy",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Харшил, мэдрэмтгий, хэт мэдрэмтгий, тэсвэрлэж чадахгүй"
+            }
+        ]
+    },
+    {
+        "title": "Alloy",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Хайлш, хайлгах, сайжруулагч элемент, сайжруулалт, бэхжүүлэлт"
+            }
+        ]
+    },
+    {
+        "title": "Alloy steel",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Сайжруулсан ган"
+            }
+        ]
+    },
+    {
+        "title": "Alpha",
+        "catalog": [
+            "Санхүү "
+        ],
+        "value": [
+            {
+                "catalog": "Санхүү ",
+                "value": "Альфа"
+            }
+        ]
+    },
+    {
+        "title": "Altaic",
+        "catalog": [
+            "Энгийн "
+        ],
+        "value": [
+            {
+                "catalog": "Энгийн ",
+                "value": "Алтайн"
+            }
+        ]
+    },
+    {
+        "title": "Alter",
+        "catalog": [
+            "Инженер "
+        ],
+        "value": [
+            {
+                "catalog": "Инженер ",
+                "value": "Өөр болох, өөрчлөгдөх"
+            }
+        ]
+    }
+]

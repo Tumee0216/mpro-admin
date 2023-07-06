@@ -17,7 +17,7 @@ export const Sidebar = ({ children }) => {
                 height={50}
             />
           <span className='border-b-[1px] border-gray-200 w-full p-2'></span>
-          <Link href='/'>
+          <Link href='/Dashboard'>
             <div className='bg-gray-100 hover:bg-gray-200 cursor-pointer my-4 p-3 rounded-lg inline-block'>
               <RxDashboard size={20} />
             </div>
@@ -27,7 +27,7 @@ export const Sidebar = ({ children }) => {
               <RxPerson size={20} />
             </div>
           </Link>
-          <Link onClick={() => signOut()} href='/Login'>
+          <Link onClick={() => signOut()} href='/'>
             <div className='bg-gray-100 hover:bg-gray-200 cursor-pointer my-4 p-3 rounded-lg inline-block'>
               <PiSignOutBold size={20} />
             </div>
