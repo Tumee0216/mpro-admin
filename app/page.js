@@ -2,6 +2,8 @@
 import { useEffect } from "react"
 import { useSession } from 'next-auth/react';
 import { useRouter } from "next/navigation";
+import Image from 'next/image';
+import { Logo } from '../app/assets'
 
 export default async function Home() {
   const session = useSession();
@@ -16,8 +18,15 @@ export default async function Home() {
   });
 
   return (
-    <section>
-      <h1>Home</h1>
-    </section>
+    <div className='h-screen flex justify-center'>
+      <div className="self-center">
+        <Image
+          src={Logo}
+          width={300}
+          height={300}
+          alt="logo"
+        />
+      </div>
+    </div>
   )
 }

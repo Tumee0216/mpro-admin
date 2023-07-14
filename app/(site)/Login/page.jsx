@@ -4,7 +4,7 @@ import { useState, useEffect } from "react"
 import { signIn, useSession } from 'next-auth/react'
 import { toast } from "react-hot-toast"
 import { useRouter } from "next/navigation"
-import { Button, Loading } from "@nextui-org/react";
+import { useInput, Button, Loading } from "@nextui-org/react";
 import Image from 'next/image';
 import Link from "next/link";
 import { hide, view, Logo } from '../../assets';
@@ -26,7 +26,7 @@ export default function Login() {
     
     useEffect(() => {
         if (session?.status === 'authenticated') {
-           router.push('/Dashboard') 
+           router.push('/Dashboard')
         }
     })
 
@@ -41,6 +41,7 @@ export default function Login() {
             }
             if(callback?.ok && !callback?.error) {
                 toast.success('Logged in successfully!')
+                router.push('/Dashboard') 
             }
             setLoading(false)
         })

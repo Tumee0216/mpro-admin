@@ -1,31 +1,42 @@
 'use client'
-import { Card, Grid, Text } from "@nextui-org/react";
-import data from '../assets/data/final.json';
+import { Card, Grid, Text, Row, Button } from "@nextui-org/react";
 
-export const CardList = () => {
-
+export const CardList = ({words}) => {
+    const RenderCatalog = ({ item }) => {
+        return (
+            <div>
+                <div>
+                    <Text size={12} css={{
+                        textGradient: "45deg, $blue600 -20%, $pink600 50%",
+                        }}>{item.catalog}</Text>
+                </div>
+                <div>
+                    <Text>- {item.value}</Text>
+                </div>
+            </div>
+        )
+    }
     return (
         <Grid.Container gap={2} justify="flex-start">
-        {data.map((item, index) => (
-            <Grid xs={6} sm={3} key={index}>
-            <Card css={{ p: "$6", mw: "400px" }}>
+        {words.map((item, index) => (
+            <Grid sm={6} md={3} key={index}>
+                <Card css={{ mw: "330px" }}>
                 <Card.Header>
-                    <Grid.Container >
-                    <Grid xs={12}>
-                        <Text h4 css={{ lineHeight: "$xs" }}>
-                            {item.title}
-                        </Text>
-                    </Grid>
-                    <Grid xs={12}>
-                        <Text css={{ color: "$accents8" }}>{item.catalog}</Text>
-                    </Grid>
-                    </Grid.Container>
+                    <Text b>{item.title}</Text>
                 </Card.Header>
-                <Card.Body css={{ py: "$2" }}>
-                    <Text>
-                    {}
-                    </Text>
+                <Card.Divider />
+                <Card.Body css={{ py: "$10" }}>
+                    {item.value.map((word) => <RenderCatalog item={word} />)}
                 </Card.Body>
+                <Card.Divider />
+                <Card.Footer>
+                    <Row justify="flex-start">
+                    <Button size="sm" light>
+                        Cancel
+                    </Button>
+                    <Button size="sm">Edit</Button>
+                    </Row>
+                </Card.Footer>
                 </Card>
             </Grid>
         ))}
