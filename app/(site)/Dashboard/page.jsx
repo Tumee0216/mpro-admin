@@ -7,6 +7,7 @@ import { useSession } from 'next-auth/react';
 import { useRouter } from "next/navigation";
 import { CardList } from '../../components/CardList';
 import data from '../../assets/data/final.json';
+import { wordsRepo } from '../../api/index';
 
 const Dashboard = () => {
     const session = useSession();
